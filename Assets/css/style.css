@@ -1,0 +1,63 @@
+.body {   
+    
+    background-color:#440381;
+    color: antiquewhite;
+}
+
+.list{
+color: antiquewhite;
+
+}
+
+
+.menu li{
+    display:inline;
+    padding: 16px;
+   
+   }
+   
+   .menu li a{
+     text-decoration: none;
+     color: antiquewhite;
+     font-size: 20px
+   }
+
+   .menu li a:hover{font-size: 30px;
+color: purple;
+}
+
+
+.p-30 {
+padding: 30px;
+
+}
+   
+   .center{
+    text-align: center;
+   }
+    .container{
+        display: flex;
+        flex-flow: row;
+        justify-content:center;
+        align-items: center;
+    }
+   
+    .br-50{
+border-radius: 50%;
+
+    }
+
+    .wh-500 {
+width: 500px;
+height: 500px;
+
+
+    }
+
+
+    .lang {
+ width: 50px;
+ height: 50px;
+
+
+    }
